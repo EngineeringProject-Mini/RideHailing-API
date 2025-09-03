@@ -1,8 +1,6 @@
 # RideHailing-API
 
-This is a simple ATM backend application built using Spring Boot.
-
-It provides basic REST APIs for ATM operations like deposit, withdrawal, and balance check.
+This is a simple implemention of a Ride Sharing Service that allows riders to request rides, drivers to accept trips, and the system to manage trip assignments, payments, and trip status.
 
 ---
 
